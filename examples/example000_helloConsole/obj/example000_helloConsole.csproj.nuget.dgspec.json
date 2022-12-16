@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Friza\\Рабочий стол\\курсы\\Веб-аналитика\\введение в программирование\\1\\examples\\example000_helloConsole\\example000_helloConsole.csproj": {}
+  },
+  "projects": {
+    "D:\\Friza\\Рабочий стол\\курсы\\Веб-аналитика\\введение в программирование\\1\\examples\\example000_helloConsole\\example000_helloConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Friza\\Рабочий стол\\курсы\\Веб-аналитика\\введение в программирование\\1\\examples\\example000_helloConsole\\example000_helloConsole.csproj",
+        "projectName": "example000_helloConsole",
+        "projectPath": "D:\\Friza\\Рабочий стол\\курсы\\Веб-аналитика\\введение в программирование\\1\\examples\\example000_helloConsole\\example000_helloConsole.csproj",
+        "packagesPath": "C:\\Users\\Friza\\.nuget\\packages\\",
+        "outputPath": "D:\\Friza\\Рабочий стол\\курсы\\Веб-аналитика\\введение в программирование\\1\\examples\\example000_helloConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Friza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
